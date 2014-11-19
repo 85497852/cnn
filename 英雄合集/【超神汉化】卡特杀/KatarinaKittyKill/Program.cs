@@ -181,8 +181,8 @@ namespace KatarinaKittyKill
             menu.AddToMainMenu();
 
 			menu.AddSubMenu(new Menu("瓒呯姹夊寲", "by wuwei"));
-				menu.SubMenu("by wuwei").AddItem(new MenuItem("qunhao", "姹夊寲缇わ細386289593"));
-				menu.SubMenu("by wuwei").AddItem(new MenuItem("qunhao2", "濞冨▋缇わ細13497795"));
+				menu.SubMenu("by wuwei").AddItem(new MenuItem("qunhao", "姹夊寲缇わ細3683679"));
+				menu.SubMenu("by wuwei").AddItem(new MenuItem("qunhao2", "濞冨▋缇わ細13683679));
 				
             //Events
             Game.OnGameUpdate += Game_OnGameUpdate;
